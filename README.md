@@ -1,11 +1,11 @@
 # DevOps Lab 1 - CI/CD Portfolio Page
 
 ## Thông tin sinh viên
-- *Họ và tên:* Nguyễn Đức Thắng
-- *Mã sinh viên:* DTC235200704
+- *Họ và tên:* Nguyễn Văn Minh
+- *Mã sinh viên:* DTC235180123
 - *Lớp:* KTPM K22A
-- *Repository URL:* https://github.com/NguyenDucThang-debug/devops-lab1-portfolio
-- *Link Live Website:* https://NguyenDucThang-debug.github.io/devops-lab1-portfolio/
+- *Repository URL:* https://github.com/dtc235180123-wq/devops-lab1-portfolio
+- *Link Live Website:* https://dtc235180123-wq.github.io/devops-lab1-portfolio/
 
 ---
 
@@ -40,4 +40,4 @@ graph LR
     style DEPLOY fill:#e6f7ff,stroke:#1890ff,stroke-width:2px;
     style MONITOR fill:#fffbe6,stroke:#faad14,stroke-width:2px;
 ```
-    
+
